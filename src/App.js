@@ -53,7 +53,7 @@ const App = () => {
       <div className="text-center text-blue-200 font-lg m-5">
         <h1 className="font-link text-4xl">Markdown Previewer</h1>
         <p><small>This project is built with React and Tailwind CSS.</small></p>
-        <p><small>View and comment on my code at <a href='https://github.com/Qrious-Coder/react-marker.git' 
+        <p><small>View and comment on my code at <a href='https://github.com/Qrious-Coder/react-marked.git' 
           target="_blank"
           rel="noneferrer"
           > Github </a></small></p>
